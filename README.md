@@ -18,11 +18,13 @@ A simple, cross-platform ToDo application built with **Flutter** and integrated 
 
 ## Screenshots
 
-![1.jpg](screenshots/1.jpg)
+<img src="screenshots/1.jpg" title="" alt="1.jpg" width="287">
 
-![2.jpg](C:\Users\asamu\OneDrive\Desktop\flutter-final\flutter_todo_final\screenshots\2.jpg)
 
-![3.jpg](C:\Users\asamu\OneDrive\Desktop\flutter-final\flutter_todo_final\screenshots\3.jpg)
+
+<img title="" src="screenshots/2.jpg" alt="3.jpg" width="285">
+
+<img title="" src="screenshots/3.jpg" alt="3.jpg" width="285">
 
 ---
 

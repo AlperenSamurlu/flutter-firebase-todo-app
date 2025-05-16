@@ -18,15 +18,11 @@ A simple, cross-platform ToDo application built with **Flutter** and integrated 
 
 ## Screenshots
 
-![1.jpg](C:\Users\asamu\Downloads\Phone%20Link\1.jpg)
+![1.jpg](screenshots/1.jpg)
 
+![2.jpg](C:\Users\asamu\OneDrive\Desktop\flutter-final\flutter_todo_final\screenshots\2.jpg)
 
-
-![2.jpg](C:\Users\asamu\Downloads\Phone%20Link\2.jpg)
-
-
-
-![3.jpg](C:\Users\asamu\Downloads\Phone%20Link\3.jpg)
+![3.jpg](C:\Users\asamu\OneDrive\Desktop\flutter-final\flutter_todo_final\screenshots\3.jpg)
 
 ---
 
@@ -104,12 +100,6 @@ lib/
 - **lib/widgets/todo_tile.dart** - List item widget to display tasks.
 
 - **lib/main.dart** - Application entry point with StreamBuilder for live task updates.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://chatgpt.com/c/LICENSE) file for details.
 
 ---
 
